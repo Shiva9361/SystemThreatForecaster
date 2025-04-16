@@ -1,2 +1,3 @@
 # SystemThreatForecaster
-Submission notebook for 2025 T1 MLP Project
+This repo contains my submission notebook for the 2025-T1 MLP Project
+
